@@ -25,6 +25,7 @@ described in specification "Appendix B". All numerical results were
 compared against results of a test bench written in C.
 
 ## **History**:  
+- Specification Revision 1.2 28-July-2022 
 - Specification Revision 1.1 22-July-2022 
 
  (Threshold value for Sample Project corrected from 0x25 to 0x20.
