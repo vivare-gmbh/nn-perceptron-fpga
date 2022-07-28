@@ -1,0 +1,6 @@
+(July 20th 2022)
+- (FINISHED) Documentation (Specification and VHDL core internals)
+- (FINISHED) Simulation's file structure
+- (FINISHED) Test Bench
+- (FINISHED) VHDL
+
